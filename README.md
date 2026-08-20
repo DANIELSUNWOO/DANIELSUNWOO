@@ -1,21 +1,28 @@
-# Hi, I'm JEONG SUNWOO(チョン・ソンウ) 👋
+<!--
+  日本の就職活動を意識したGitHubプロフィールREADME（日本語版）
+  ・本文は自然な日本語（です/ます調）で作成しています
+  ・YOUR_XXX の部分をご自身の情報に置き換えてください
+  ・技術バッジ・統計ウィジェットのURLはそのまま使えます
+-->
 
-## About Me
+# はじめまして、YOUR_NAMEと申します 👋
 
-- 🎓 전남대학교 인공지능학부 인공지능전공 / AI융합대학, 2028년 2월 졸업 예정
-- ☁️ 클라우드 엔지니어링, DevOps에 관심이 있고 이 방향으로 커리어를 준비하고 있습니다
-- 💻 현재 백엔드(Java/Spring Boot)를 학습하며 실전 팀 프로젝트를 진행 중입니다
-- 🧩 원리부터 차근차근 이해하며 쌓아가는 학습 스타일이고, 팀 프로젝트에서는 초반 분위기를 풀고 팀원들의 강점을 빠르게 파악해 협업을 이끄는 편입니다
-- 🇯🇵 일본 취업을 목표로 준비 중입니다 (JLPT N2)
+## 自己紹介 (About Me)
 
-## Recent Activity
+- 🎓 OO大学 コンピュータ情報通信工学専攻 / AI融合大学、2027年卒業予定
+- ☁️ クラウドエンジニアリングやDevOpsに興味があり、そちらの方向でキャリアを準備しています
+- 💻 現在はバックエンド(Java / Spring Boot)を学習しながら、実践的なチームプロジェクトに取り組んでいます
+- 🧩 物事の仕組みから理解し、一歩ずつ着実に積み上げていく学習スタイルです。チームプロジェクトでは初期のぎこちない雰囲気を和ませ、メンバーそれぞれの強みを早めに見極めて、協力を引き出すのが得意です
+- 🇯🇵 日本での就職を目標に準備中です(JLPT N2)
 
-- ✅ 정보처리기사 취득
-- ✅ JLPT N2 응시 (2026.07)
-- ✅ 풀스택 부트캠프 수료
-- 🚀 채용 연계형 해커톤(클라우드 주제) 참가 준비 중
+## 最近の活動 (Recent Activity)
 
-## Tech Stack
+- ✅ 情報処理技士 取得(韓国の国家資格、日本の基本情報技術者試験に相当)
+- ✅ JLPT N2 受験(2026年7月)
+- ✅ フルスタックブートキャンプ 修了
+- 🚀 採用連携型ハッカソン(クラウドテーマ)への参加を準備中
+
+## 技術スタック (Tech Stack)
 
 **Languages**
 
@@ -41,26 +48,26 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## GitHub Stats
+## GitHub統計 (GitHub Stats)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## Featured Projects
+## 代表プロジェクト (Featured Projects)
 
-### [프로젝트명 1](저장소 링크)
-한 줄 설명: 어떤 문제를 해결하는 앱인지, 무엇으로 만들었는지
-- 사용 기술: Spring Boot, React, MySQL
-- 담당 역할: 백엔드 API 설계 및 인증 구현
+### [プロジェクト名1](リポジトリのリンク)
+どんな課題を解決するアプリなのか、何を使って作ったのかを一言で
+- 使用技術: Spring Boot, React, MySQL
+- 担当範囲: バックエンドAPI設計・認証機能の実装
 
-### [프로젝트명 2](저장소 링크)
-한 줄 설명
-- 사용 기술:
-- 담당 역할:
+### [プロジェクト名2](リポジトリのリンク)
+一言紹介
+- 使用技術:
+- 担当範囲:
 
-## Contact
+## 連絡先 (Contact)
 
 <p>
   <a href="mailto:your_email@example.com">
