@@ -1,28 +1,25 @@
-<!--
-  日本の就職活動を意識したGitHubプロフィールREADME（日本語版）
-  ・本文は自然な日本語（です/ます調）で作成しています
-  ・YOUR_XXX の部分をご自身の情報に置き換えてください
-  ・技術バッジ・統計ウィジェットのURLはそのまま使えます
--->
+# Hi, I'm YOUR_NAME 👋
 
-# はじめまして、YOUR_NAMEと申します 👋
+## About Me
 
-## 自己紹介 (About Me)
+- 🎓 School of Artificial Intelligence, Major in Artificial Intelligence, Chonnam National University — expected graduation 2027
+- ☁️ Interested in Cloud Engineering & DevOps, and preparing my career in that direction
+- 💻 Hands-on experience deploying real applications to AWS (EC2, S3) and building a GitHub Actions CI/CD pipeline for automatic deployment
+- 🧩 I'm an understanding-first learner — I like building up from fundamentals rather than jumping straight into trial and error. In team projects, I tend to break the ice early on and quickly figure out what each teammate is good at, so the team can collaborate without friction
+- 🇯🇵 Aiming to work in Japan (JLPT N2)
+- 📎 Full portfolio (project details, write-ups): [Notion Portfolio](YOUR_NOTION_LINK)
 
-- 🎓 OO大学 コンピュータ情報通信工学専攻 / AI融合大学、2027年卒業予定
-- ☁️ クラウドエンジニアリングやDevOpsに興味があり、そちらの方向でキャリアを準備しています
-- 💻 現在はバックエンド(Java / Spring Boot)を学習しながら、実践的なチームプロジェクトに取り組んでいます
-- 🧩 物事の仕組みから理解し、一歩ずつ着実に積み上げていく学習スタイルです。チームプロジェクトでは初期のぎこちない雰囲気を和ませ、メンバーそれぞれの強みを早めに見極めて、協力を引き出すのが得意です
-- 🇯🇵 日本での就職を目標に準備中です(JLPT N2)
+## Highlighted Projects
 
-## 最近の活動 (Recent Activity)
+**[Team Project Name](YOUR_TEAM_PROJECT_REPO_LINK)** — Spring Boot + React team project. Deployed to AWS EC2, served static assets via S3, and built a GitHub Actions CI/CD pipeline for auto-deploy on push.
+`Java` `Spring Boot` `React` `MySQL` `AWS EC2/S3` `GitHub Actions`
 
-- ✅ 情報処理技士 取得(韓国の国家資格、日本の基本情報技術者試験に相当)
-- ✅ JLPT N2 受験(2026年7月)
-- ✅ フルスタックブートキャンプ 修了
-- 🚀 採用連携型ハッカソン(クラウドテーマ)への参加を準備中
+**[MoneyLog](YOUR_MONEYLOG_REPO_LINK)** *(in progress)* — Personal full-stack budgeting app, built end-to-end solo to go deeper on cloud/DevOps: containerizing with Docker, re-applying CI/CD, and exploring Infrastructure as Code.
+`Java` `Spring Boot` `Docker` `GitHub Actions` `AWS`
 
-## 技術スタック (Tech Stack)
+→ Full write-ups (features, architecture, what I learned): [Notion Portfolio](YOUR_NOTION_LINK)
+
+## Tech Stack
 
 **Languages**
 
@@ -30,46 +27,73 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Backend / Framework**
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Backend**
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-**Database / DevOps**
+**AI / Machine Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+**Database**
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## GitHub統計 (GitHub Stats)
+**Cloud / DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 代表プロジェクト (Featured Projects)
-
-### [プロジェクト名1](リポジトリのリンク)
-どんな課題を解決するアプリなのか、何を使って作ったのかを一言で
-- 使用技術: Spring Boot, React, MySQL
-- 担当範囲: バックエンドAPI設計・認証機能の実装
-
-### [プロジェクト名2](リポジトリのリンク)
-一言紹介
-- 使用技術:
-- 担当範囲:
-
-## 連絡先 (Contact)
+## Contact
 
 <p>
+  <a href="YOUR_NOTION_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
   <a href="mailto:your_email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
