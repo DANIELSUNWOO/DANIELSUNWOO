@@ -4,11 +4,10 @@
 
 ## 소개 (About Me)
 
-- 🎓 전남대학교 인공지능학부 인공지능전공 — 2028년 2월 졸업 예정
-- ☁️ 클라우드 엔지니어링과 DevOps에 관심이 있고, 그 방향으로 커리어를 준비하고 있습니다
+- ☁️ 클라우드 엔지니어링과 DevOps에 관심이 있습니다
 - 💻 AWS(EC2, S3)에 실제 애플리케이션을 배포하고, GitHub Actions로 자동 배포되는 CI/CD 파이프라인을 직접 구축해본 경험이 있습니다
 - 🧩 원리부터 차근차근 이해하며 쌓아가는 학습 스타일입니다. 팀 프로젝트에서는 초반 어색한 분위기를 풀고, 팀원 각자의 강점을 빠르게 파악해 팀이 마찰 없이 협업할 수 있도록 이끄는 편입니다
-- 🇯🇵 일본 취업을 목표로 준비 중입니다 — JLPT N2 합격
+- 🇯🇵 JLPT N2, N3 합격
 - 🦁 멋쟁이사자처럼 백엔드 스쿨 24기(Java) 수료
 - 📜 정보처리기사, SQLD 보유
 
@@ -61,19 +60,4 @@
 <p>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## GitHub 통계 (GitHub Stats)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DANIELSUNWOO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELSUNWOO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 연락처 (Contact)
-
-<p>
-  <a href="mailto:sunwo04@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
