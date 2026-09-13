@@ -1,25 +1,17 @@
-**日本語** · [한국어](README.ko.md)
+**한국어** · [日本語](README.ja.md)
 
-# こんにちは、チョン・ソヌです 👋
+# 안녕하세요, 정선우입니다 👋
 
-## 自己紹介 (About Me)
+## 소개 (About Me)
 
-- ☁️ クラウドエンジニアリングとDevOpsに興味があります
-- 💻 AWS(EC2, S3)に実際のアプリケーションをデプロイし、GitHub Actionsで自動デプロイされるCI/CDパイプラインを直接構築した経験があります
-- 🧩 原理から一歩ずつ理解しながら積み上げていく学習スタイルです。チームプロジェクトでは序盤の雰囲気をほぐし、メンバーそれぞれの強みを素早く把握してチームが摩擦なく協働できるよう導く役割を担うことが多いです
-- 🇯🇵 JLPT N2、N3 合格
-- 🦁 LIKELION バックエンドスクール24期(Java)修了
-- 📜 情報処理技師、SQLD 保有
+- ☁️ 클라우드 엔지니어링과 DevOps에 관심이 있습니다
+- 💻 AWS(EC2, S3)에 실제 애플리케이션을 배포하고, GitHub Actions로 자동 배포되는 CI/CD 파이프라인을 직접 구축해본 경험이 있습니다
+- 🧩 원리부터 차근차근 이해하며 쌓아가는 학습 스타일입니다. 팀 프로젝트에서는 초반 어색한 분위기를 풀고, 팀원 각자의 강점을 빠르게 파악해 팀이 마찰 없이 협업할 수 있도록 이끄는 편입니다
+- 🇯🇵 JLPT N2, N3 합격
+- 🦁 멋쟁이사자처럼 백엔드 스쿨 24기(Java) 수료
+- 📜 정보처리기사, SQLD 보유
 
-## 代表プロジェクト (Highlighted Projects)
-
-**[Prep2gether](https://github.com/DANIELSUNWOO/prep2gether)** — 就活生のためのコミュニティプラットフォーム。Spring Boot + Reactの4人チームプロジェクトで決済・サブスクリプション(EXPERT)ドメインを担当し、AWS EC2デプロイとGitHub Actions CI/CDパイプラインを構築しました。プロジェクト終了後は個人インフラへ移行し、HTTPS対応やセキュリティ点検(決済を迂回できるAPIの削除、露出したシークレットのローテーションなど)を続けています。
-`Java` `Spring Boot` `React` `MySQL` `AWS EC2/S3` `GitHub Actions` `PortOne`
-
-**[MoneyLog](https://github.com/DANIELSUNWOO/moneylog)** — クラウド・DevOpsをより深く掘り下げるために、企画から運用まで一人で作った家計簿フルスタックアプリです。GitHub OIDCによる静的キーなしのデプロイ、Terraformによるインフラのコード化、CloudWatchでの監視、バックアップ・復旧リハーサルまで実際に構築し検証しました。
-`Java` `Spring Boot` `React` `Docker` `Terraform` `AWS(EC2・S3・CloudWatch)` `GitHub Actions`
-
-## 技術スタック (Tech Stack)
+## 기술 스택 (Tech Stack)
 
 **Languages**
 
