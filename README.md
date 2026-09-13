@@ -4,11 +4,10 @@
 
 ## 自己紹介 (About Me)
 
-- 🎓 全南大学校 人工知能学部 人工知能専攻 — 2028年2月卒業予定
-- ☁️ クラウドエンジニアリングとDevOpsに関心があり、その方向でキャリアを準備しています
+- ☁️ クラウドエンジニアリングとDevOpsに興味があります
 - 💻 AWS(EC2, S3)に実際のアプリケーションをデプロイし、GitHub Actionsで自動デプロイされるCI/CDパイプラインを直接構築した経験があります
 - 🧩 原理から一歩ずつ理解しながら積み上げていく学習スタイルです。チームプロジェクトでは序盤の雰囲気をほぐし、メンバーそれぞれの強みを素早く把握してチームが摩擦なく協働できるよう導く役割を担うことが多いです
-- 🇯🇵 日本での就職を目標に準備中です — JLPT N2 合格
+- 🇯🇵 JLPT N2、N3 合格
 - 🦁 LIKELION バックエンドスクール24期(Java)修了
 - 📜 情報処理技師、SQLD 保有
 
@@ -61,19 +60,4 @@
 <p>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## GitHub統計 (GitHub Stats)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DANIELSUNWOO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELSUNWOO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 連絡先 (Contact)
-
-<p>
-  <a href="mailto:sunwo04@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
