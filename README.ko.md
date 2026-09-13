@@ -11,14 +11,6 @@
 - 🦁 멋쟁이사자처럼 백엔드 스쿨 24기(Java) 수료
 - 📜 정보처리기사, SQLD 보유
 
-## 대표 프로젝트 (Highlighted Projects)
-
-**[Prep2gether](https://github.com/DANIELSUNWOO/prep2gether)** — 취업 준비생을 위한 커뮤니티 플랫폼. Spring Boot + React 4인 팀 프로젝트에서 결제·구독(EXPERT) 도메인을 담당했고, AWS EC2 배포와 GitHub Actions CI/CD 파이프라인을 구축했습니다. 종료 후 개인 인프라로 이관해 HTTPS 적용과 보안 점검(결제 우회 API 제거, 노출된 시크릿 로테이션 등)을 이어가고 있습니다.
-`Java` `Spring Boot` `React` `MySQL` `AWS EC2/S3` `GitHub Actions` `PortOne`
-
-**[머니로그](https://github.com/DANIELSUNWOO/moneylog)** — 클라우드/DevOps를 더 깊이 파보기 위해 혼자 기획부터 운영까지 만든 가계부 풀스택 앱입니다. GitHub OIDC 기반 무키 배포, Terraform으로 인프라 코드화, CloudWatch 관측, 백업/복구 리허설까지 실제로 구축하고 검증했습니다.
-`Java` `Spring Boot` `React` `Docker` `Terraform` `AWS(EC2·S3·CloudWatch)` `GitHub Actions`
-
 ## 기술 스택 (Tech Stack)
 
 **Languages**
