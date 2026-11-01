@@ -4,20 +4,17 @@
 
 ## 自己紹介 (About Me)
 
-- ☁️ クラウドエンジニアリングとDevOpsに興味があります
-- 💻 AWS(EC2, S3)に実際のアプリケーションをデプロイし、GitHub Actionsで自動デプロイされるCI/CDパイプラインを直接構築した経験があります
-- 🧩 原理から一歩ずつ理解しながら積み上げていく学習スタイルです。チームプロジェクトでは序盤の雰囲気をほぐし、メンバーそれぞれの強みを素早く把握してチームが摩擦なく協働できるよう導く役割を担うことが多いです
-- 🇯🇵 JLPT N2、N3 合格
-- 🦁 LIKELION バックエンドスクール24期(Java)修了
-- 📜 情報処理技師、SQLD 保有
+- 🎓 全南大学校 人工知能学部 在学中
+- 📊 データ・機械学習分野に興味あり
+- 🧩 原理から一歩ずつ理解する学習スタイル
+- 🤝 チームプロジェクトではバックエンド開発とサービス企画の提案を担当、ムードメーカー
+- 🇯🇵 JLPT N2
+- 🦁 LIKELION バックエンドスクール 24 期（Java）修了
+- 📜 情報処理技師、SQLD, ADSP
 
-## 代表プロジェクト (Highlighted Projects)
+## アクティビティ (Contributions)
 
-**[Prep2gether](https://github.com/DANIELSUNWOO/prep2gether)** — 就活生のためのコミュニティプラットフォーム。Spring Boot + Reactの4人チームプロジェクトで決済・サブスクリプション(EXPERT)ドメインを担当し、AWS EC2デプロイとGitHub Actions CI/CDパイプラインを構築しました。プロジェクト終了後は個人インフラへ移行し、HTTPS対応やセキュリティ点検(決済を迂回できるAPIの削除、露出したシークレットのローテーションなど)を続けています。
-`Java` `Spring Boot` `React` `MySQL` `AWS EC2/S3` `GitHub Actions` `PortOne`
-
-**[MoneyLog](https://github.com/DANIELSUNWOO/moneylog)** — クラウド・DevOpsをより深く掘り下げるために、企画から運用まで一人で作った家計簿フルスタックアプリです。GitHub OIDCによる静的キーなしのデプロイ、Terraformによるインフラのコード化、CloudWatchでの監視、バックアップ・復旧リハーサルまで実際に構築し検証しました。
-`Java` `Spring Boot` `React` `Docker` `Terraform` `AWS(EC2・S3・CloudWatch)` `GitHub Actions`
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 技術スタック (Tech Stack)
 
