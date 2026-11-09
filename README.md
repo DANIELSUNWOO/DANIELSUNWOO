@@ -1,22 +1,22 @@
-**한국어** · [日本語](README.ja.md)
+**日本語** · [한국어](README.ko.md)
 
-# 안녕하세요, 정선우입니다 👋
+# こんにちは、チョン・ソヌです 👋
 
-## 소개 (About Me)
+## 自己紹介 (About Me)
 
-- 🎓 전남대학교 인공지능학부 재학
-- 📊 데이터·머신러닝 분야에 관심
-- 🧩 원리부터 차근차근 이해하는 학습 스타일
-- 🤝 팀에서 백엔드 개발과 서비스 기획 제안 담당, 분위기 메이커
-- 🇯🇵  JLPT N2
-- 🦁 멋쟁이사자처럼 백엔드 스쿨 24기(Java) 수료
-- 📜 정보처리기사, SQLD, ADSP
+- 🎓 全南大学校 人工知能学部 在学中
+- 📊 データ・機械学習分野に興味あり
+- 🧩 原理から一歩ずつ理解する学習スタイル
+- 🤝 チームではバックエンド開発とサービス企画の提案を担当、ムードメーカー
+- 🇯🇵 JLPT N2
+- 🦁 LIKELION バックエンドスクール 24 期（Java）修了
+- 📜 情報処理技師、SQLD、ADSP
 
-## 활동 (Contributions)
+## アクティビティ (Contributions)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## 기술 스택 (Tech Stack)
+## 技術スタック (Tech Stack)
 
 **Languages**
 
@@ -40,6 +40,12 @@
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+**AI / ML**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 **Infra / DevOps**
