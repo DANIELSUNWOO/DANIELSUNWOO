@@ -1,4 +1,4 @@
-**日本語** · [한국어](README.ko.md)
+[한국어](README.md) · **日本語**
 
 # こんにちは、チョン・ソヌと申します 👋
 
@@ -64,3 +64,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
+</content>
