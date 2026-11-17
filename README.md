@@ -1,4 +1,4 @@
-[日本語](README.md) · **한국어**
+**한국어** · [日本語](README.ja.md)
 
 # 안녕하세요, 정선우입니다 👋
 
@@ -54,3 +54,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
+</content>
